@@ -5,7 +5,7 @@ The MTA has the responsibility for developing and implementing a unified mass tr
 MTA carries out these planning and other responsibilities both directly and through its subsidiaries and affiliates.
 
 ### Data Description:
-the database included several tables on control area information, unit , subunit channel position ,station , line station , division ,datetime ,desc, entries ,exits.
+The database included several tables on control area information, unit , subunit channel position ,station , line station , division ,datetime ,desc, entries ,exits.
 ### Questions 
 - What is the stations near for the company ?
 - What the average time to going to work? and back to home ?
