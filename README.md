@@ -13,6 +13,9 @@ The database represents several tables the recorded by a singular turnstile. Ind
 ### Data size 	
   The columns = 11 and the 
   rows =209229
+### Design 
+There is a company that wants to give its employees a card train ticket (MTA), we will looks at the station near the company’s location , the time of the beginning and end of work and work days .
+
 ### Algorithms
 Perform a thorough Exploratory Data Analysis of the MTA data; clean, explore, aggregate, and visualize the data as appropriate .
 ### Tools 
