@@ -8,7 +8,7 @@ MTA carries out these planning and other responsibilities both directly and thro
 - What the average time to going to work? and back to home ?
 - How many days will going to work ?
 ### Data Description:
-The database included several tables on control area information, unit , subunit channel position ,station , line station , division ,datetime ,desc, entries ,exits.
+The database represents several tables the recorded by a singular turnstile. Individual turnstiles have unique identifiers built from a combination of its Station, Remote Unit, Control Area (C/A), and Subunit Channel Position ,station ,line station ,division ,datetime ,desc. To enter or exit a subway station, one usually needs to pass through a turnstile. The turnstiles record a running tally of the number of entries and exits once every four hours.
 
 ### Data size 	
   The columns = 11 and the 
