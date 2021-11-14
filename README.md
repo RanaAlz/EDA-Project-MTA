@@ -14,6 +14,8 @@ The database included several tables on control area information, unit , subunit
   The columns = 11 and the 
   rows =209229
 ### Tools 
-- The data into a SQL database and querying from that database into Python , exploratory analysis and data cleaning in SQL, Exploratory data analysis in pandas .
-- Python visualization libraries (such as matplotlib and seaborn) :
-Visualization tools could include more advanced python libraries such as Bokeh and Plotly or resources outside of Python such as Tableau.
+- ***Programming:*** SQLite , Python  .
+- ***Libraries:*** Numpy ,Pandas ,Matplotlib ,Random .
+
+
+
