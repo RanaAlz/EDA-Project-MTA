@@ -4,6 +4,7 @@
 ### Questions 
 - What are the most requested cities from Northwind ?
 - How much is the total freight per month?
+- How much is the total orders per month?
 ### Data Description:
 The database represents several tables the recorded by a singular turnstile. Individual turnstiles have unique identifiers built from a combination of its Station, Remote Unit, Control Area (C/A), and Subunit Channel Position ,station ,line station ,division ,datetime ,desc. To enter or exit a subway station, one usually needs to pass through a turnstile. The turnstiles record a running tally of the number of entries and exits once every four hours.
 
