@@ -6,12 +6,12 @@
 - What are the most requested cities from Northwind for year'2012'?
 - How much is the total orders per year '2021'?
 ### Data Description:
-The database represents 13 tables Products ,oreders ,Suppliers ,Employees ,Customers and more .
-The table Orders have the 14 columns is OrderID ,CustomerID ,EmployeeID ,OrderDate ,RequiredDate ,ShippedDate ,ShipVia ,Freight ,ShipName ,ShipCity ,Shipregion ,ShipPostalCode ,ShipCountry.
+The database represents 13 tables Products ,orederr ,Suppliers ,Employees ,Customers,OrderDetail and more .The table Orders have a 14 columns is OrderID ,CustomerID ,EmployeeID ,OrderDate ,RequiredDate ,ShippedDate ,ShipVia ,Freight ,ShipName ,ShipCity ,Shipregion ,ShipPostalCode ,ShipCountry.
+The table OrderDetails have a 6 columns Id,OrderId,ProductId ,UnitPrice ,Quantity ,Discount .
 
 ### Data size 	
-  The columns = 14 and the 
-  rows = 16818
+ Orderr The columns = 14 and the rows = 16818
+ OrderDetail The columns = 4 and the rows = 621883
 ### Design 
 The North Wants to open a small store, we will looks for the most requested cities and we will look at the cost of shipping per month and also how much is the total number of orders per month per citys .
 
