@@ -11,15 +11,17 @@ The table OrderDetails have a 6 columns Id,OrderId,ProductId ,UnitPrice ,Quantit
 
 ### Data size 	
  Orderr The columns = 14 and the rows = 16818
+ 
  OrderDetail The columns = 4 and the rows = 621883
 ### Design 
-The North Wants to open a small store, we will looks for the most requested cities and we will look at the cost of shipping per month and also how much is the total number of orders per month per citys .
+We'll open a NorthWints small store, and we'll be looking for cities with high income with high order numbers and highest profitability during 2012.
+
 
 ### Algorithms
 Perform a thorough Exploratory Data Analysis of the Northwind data; clean, explore, aggregate, and visualize the data as appropriate .
 ### Tools 
 - ***Programming:*** SQLite , Python  .
-- ***Libraries:*** Numpy ,Pandas ,Matplotlib ,Random .
+- ***Libraries:*** Numpy ,Pandas ,Matplotlib ,Random ,seaborn.
 
 
 
