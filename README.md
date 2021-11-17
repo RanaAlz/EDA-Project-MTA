@@ -14,7 +14,7 @@ The table OrderDetails have a 6 columns Id,OrderId,ProductId ,UnitPrice ,Quantit
  
  OrderDetail The columns = 4 and the rows = 621883
 ### Design 
-We'll open a NorthWints small store, and we'll be looking for cities with high income with high order numbers and highest profitability during 2012.
+We'll open a NorthWind small store, and we'll be looking for cities with high income with high order numbers and highest profitability during 2012.
 
 
 ### Algorithms
